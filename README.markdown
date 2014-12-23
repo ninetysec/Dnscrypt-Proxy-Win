@@ -1,9 +1,9 @@
 Dnscrypt-Proxy-Win
 
-官方下载地址：http://download.dnscrypt.org/dnscrypt-proxy/     #国内访问被墙
-win版文档：https://github.com/jedisct1/dnscrypt-proxy/blob/master/README-WINDOWS.markdown
-linux版文档：https://github.com/jedisct1/dnscrypt-proxy/blob/master/README.markdown
-
+[官方下载地址(国内访问被墙)](http://download.dnscrypt.org/dnscrypt-proxy/)
+[win版文档](https://github.com/jedisct1/dnscrypt-proxy/blob/master/README-WINDOWS.markdown)
+[linux版文档](https://github.com/jedisct1/dnscrypt-proxy/blob/master/README.markdown)
+[My Blog](http://www.scar1et.org/)
 ==================
 
 配置方法：
