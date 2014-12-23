@@ -1,0 +1,1 @@
+CreateObject("wscript.shell").run "dnscrypt-proxy.exe -R opendns",0
