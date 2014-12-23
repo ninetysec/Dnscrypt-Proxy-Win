@@ -1,4 +1,9 @@
 Dnscrypt-Proxy-Win
+
+官方下载地址：http://download.dnscrypt.org/dnscrypt-proxy/     #国内访问被墙
+win版文档：https://github.com/jedisct1/dnscrypt-proxy/blob/master/README-WINDOWS.markdown
+linux版文档：https://github.com/jedisct1/dnscrypt-proxy/blob/master/README.markdown
+
 ==================
 
 配置方法：
@@ -11,5 +16,5 @@ Dnscrypt-Proxy-Win
 
 0x04  安装Dnscrpyt服务命令，虽然可以成功安装，但不知为何无法启动，如有人知道，求指出。
 
-dnscrypt-proxy -R opennic-jp-ns2 --install         //這是安裝命令
-dnscrypt-proxy  --uninstall           //這是卸載命令
+dnscrypt-proxy -R opennic-jp-ns2 --install    //這是安裝命令
+dnscrypt-proxy  --uninstall      //這是卸載命令
